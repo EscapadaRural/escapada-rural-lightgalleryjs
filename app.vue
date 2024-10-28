@@ -1,0 +1,9 @@
+<template>
+  <div>
+    before:
+    <ClientOnly>
+      <TLightGallery></TLightGallery>
+    </ClientOnly>
+    after:
+  </div>
+</template>
